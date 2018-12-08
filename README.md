@@ -8,4 +8,4 @@ You need a considerably latest version of opencv installed.
 
 After the modules have been installed you can run the project by using:
 
-python filter.py 
+`python filter.py` 
